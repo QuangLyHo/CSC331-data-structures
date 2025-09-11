@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gong/Desktop/BMCC 2025-2026/CSC331/recursion/largest'
+relocations:     []
+...
