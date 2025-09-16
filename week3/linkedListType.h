@@ -95,10 +95,6 @@ public:
         //destructor
         //deletes all the nodes from the list
         //postcondition: the list object is destroy
-    //Get first function
-    nodeType<Type> getFirst() const {
-        return head;
-    }
 };
 
 template <class Type>
