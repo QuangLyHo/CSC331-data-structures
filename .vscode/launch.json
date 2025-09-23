@@ -14,8 +14,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/gong/Desktop/BMCC 2025-2026/CSC331/week2",
-      "program": "/Users/gong/Desktop/BMCC 2025-2026/CSC331/week2/build/Debug/outDebug"
+      "cwd": "/Users/gong/Desktop/BMCC 2025-2026/CSC331/week3",
+      "program": "/Users/gong/Desktop/BMCC 2025-2026/CSC331/week3/build/Debug/outDebug"
     }
   ]
 }
