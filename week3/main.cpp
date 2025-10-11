@@ -46,7 +46,7 @@ int main() {
     double total;
     double subTotal;
 
-    for (linkedListIterator<double> front = dList->begin(); front != dList->end(); ++front) 
+    for (linkedListIterator<double> front = dList->begin(); front != dList->end();++front) 
         total += *front;
 
     subTotal = static_cast<int> (total);
